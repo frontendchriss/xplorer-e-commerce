@@ -1,0 +1,54 @@
+.uiorange {
+  background-color: #f99d49;
+}
+
+.uirose {
+  background-color: #fdcae4;
+}
+
+.uilightblue {
+  background-color: #2a61db;
+}
+
+.uiblack {
+  background-color: #000000;
+}
+
+.uiyellow {
+  background-color: #feeb9d;
+}
+
+.uiblue {
+  background-color: #2a61db;
+}
+
+.prblue {
+  background-color: #635ef7;
+}
+
+.prtransparent {
+  background-color: #e6e5ff;
+}
+
+.md-backgroundcolor {
+  background-color: rgba(200, 200, 200);
+}
+.lightpurple {
+  background-color: #efd9fd;
+}
+
+.skyblue {
+  background-color: #d7eaf8;
+}
+
+.bgtransparent {
+  background-color: #ededed;
+}
+
+.lighttrans {
+  background-color: #ffffff;
+}
+
+.backgroundimg {
+  background-image: url("https://images.unsplash.com/photo-1441986300917-64674bd600d8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80");
+}
